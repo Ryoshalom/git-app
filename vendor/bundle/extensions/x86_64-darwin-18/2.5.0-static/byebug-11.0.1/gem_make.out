@@ -1,0 +1,19 @@
+current directory: /Users/ryosakamoto/Downloads/sample/git-app/vendor/bundle/gems/byebug-11.0.1/ext/byebug
+/Users/ryosakamoto/.rbenv/versions/2.5.1/bin/ruby -r ./siteconf20190904-55256-141x0x8.rb extconf.rb
+creating Makefile
+
+current directory: /Users/ryosakamoto/Downloads/sample/git-app/vendor/bundle/gems/byebug-11.0.1/ext/byebug
+make "DESTDIR=" clean
+
+current directory: /Users/ryosakamoto/Downloads/sample/git-app/vendor/bundle/gems/byebug-11.0.1/ext/byebug
+make "DESTDIR="
+compiling breakpoint.c
+compiling byebug.c
+compiling context.c
+compiling locker.c
+compiling threads.c
+linking shared-object byebug/byebug.bundle
+
+current directory: /Users/ryosakamoto/Downloads/sample/git-app/vendor/bundle/gems/byebug-11.0.1/ext/byebug
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 byebug.bundle ./.gem.20190904-55256-1fpzed1/byebug
